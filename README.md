@@ -23,18 +23,16 @@ Professional kit of modern frontend technologies that I use daily:
 
 ### 🛠️ What I'm Working On
 
-- 🖥️ Crafting advanced interactive **Admin Dashboards** with full data visualization.
-- 🎨 Designing highly converting **SaaS & Fintech Landing Pages**.
-- ⚙️ Writing clean architecture components to scale frontend applications efficiently.
-- ⚡ Optimizing performance, responsive UI layouts, and automated theme modes.
+- 🖥️ Developing modern frontend applications with a focus on performance and clean code.
+- 🚀 Learning new full-stack architectures and expanding my tech stack.
 
 ---
 
 ### 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohab-Elhashem &show_icons=true&theme=radical&rank_icon=github" alt="Mohab's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohab-Elhashem &layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohab-Elhashem&show_icons=true&theme=radical&rank_icon=github" alt="Mohab's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohab-Elhashem&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -44,7 +42,7 @@ Professional kit of modern frontend technologies that I use daily:
 Let's build something amazing together! Feel free to reach out for projects, collaborations, or just a tech chat.
 
 <p align="left">
-  <a href="www.linkedin.com/in/mohab-elhashem" target="_blank">
+  <a href="https://www.linkedin.com/in/mohab-elhashem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohabelhashem@gmail.com">
